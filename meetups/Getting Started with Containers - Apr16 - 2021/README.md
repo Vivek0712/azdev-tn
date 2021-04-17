@@ -27,6 +27,6 @@ Twitter: https://twitter.com/VivekRaja007​
 Simple understanding of Containers, Experience with Azure is appreciated but not required.
 
 
-###References:
-https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/
-https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/
+### References:
+1. https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/
+2. https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/
