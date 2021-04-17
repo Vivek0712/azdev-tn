@@ -4,6 +4,9 @@
 
 ### Event Details
 Hosted by Azure Developer Communities of Tamil Nadu - Chennai, Madurai, Coimbatore, Trichy, Tuticorin and Tanjore.
+Date: April 16, 6pm IST
+https://www.meetup.com/azure-developer-community-chennai/events/277373971/
+
 
 ### About the session:
 In this session, we will learn about benefits of using Docker containers as a containerization platform, discuss the infrastructure provided by the Docker platform and also learn how to run containerized apps using Docker containers with Azure Container Instances (ACI).
