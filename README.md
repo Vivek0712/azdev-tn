@@ -13,11 +13,4 @@ Meetups, Blogs, Code and presentation decks - Azure Developer Communities in Tam
 ### Navaneethan Gopal - Dindigul, Thoothukudi, Thirunelveli
 
 
-## Powered by 
-
-![logo2](https://user-images.githubusercontent.com/25385071/115110633-06a21e80-9f9a-11eb-91a0-61df3774b1df.png)
-
-
-## Sponsored by
-![MS-Azure_logo_horiz_c-white_cmyk(1)](https://user-images.githubusercontent.com/25385071/115110515-7663d980-9f99-11eb-920d-7ae8af4e37f2.png)
 
