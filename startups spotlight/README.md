@@ -1,6 +1,6 @@
 # Startup/Corporate Talk 
 
-## Episode 1:
+## Episode 1: Rory Preddy
 
 * Speaker : Rory Preddy, Senior Developer Advocate, Microsoft
 * Vivek Raja P S
