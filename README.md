@@ -1,8 +1,24 @@
 # Azure Developer Communities in Tamil Nadu
 
-![ADC (Cursive) PNG(1)](https://user-images.githubusercontent.com/25385071/115110479-4a485880-9f99-11eb-972c-ce2c91a6b1da.png)
+
+![Az Community (New Logo) Blue-2](https://user-images.githubusercontent.com/25385071/120067171-d8832480-c097-11eb-9f75-6af9c70b3e39.jpg)
 
 Meetups, Blogs, Code and presentation decks - Azure Developer Communities in Tamil Nadu.
+
+## Honourable Mentions
+
+### 1. [Literature Text Translation Blog](https://github.com/Vivek0712/azdev-tn/tree/main/blogs) by Vivek Raja P Sgot featured in Microsoft Newsletter - Issue 23 - April 2021
+& Top 30 Winner of Azure Developer Stories 2021
+
+![Screenshot 2021-05-29 at 4 14 40 PM](https://user-images.githubusercontent.com/25385071/120067392-fdc46280-c098-11eb-8e4c-ec3f2fec7b6d.png)
+
+
+### 2. [Meetup - Getting Started with Containers](https://github.com/Vivek0712/azdev-tn/tree/main/meetups/Getting%20Started%20with%20Containers%20-%20Apr16%20-%202021) - Microsoft Newsletter - Issue 24 - May 2021
+
+### 3. Our Github Repo - Microsoft Newsletter - Issue 24 - May 2021
+
+![Screenshot 2021-05-29 at 3 44 58 PM](https://user-images.githubusercontent.com/25385071/120067496-9b1f9680-c099-11eb-9428-ffc75c3e011c.png)
+
 
 ## Organizers
 
@@ -13,5 +29,5 @@ Meetups, Blogs, Code and presentation decks - Azure Developer Communities in Tam
 ### Navaneethan Gopal - Dindigul, Thoothukudi, Thirunelveli
 
 
-## Members - Currently 250 members
+## Members - Currently 400+ members
 
